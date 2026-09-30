@@ -13,13 +13,20 @@ Enter a Vault Explorer name.
 Select Start Game from the main menu.
 
 Complete the challenges in order.
+
 Answer questions correctly to earn points.
+
 Preserve your lives by avoiding incorrect answers.
+
 Complete all five stages to unlock the final BrainVault.
+
 View your final score, accuracy, and rank.
+
 Check the High Scores section to compare saved scores.
 
+
 5 Levels + Scoring System + Ranking System
+
 More exciting ques coming up with increasing levels.
 
 
