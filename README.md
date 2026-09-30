@@ -9,7 +9,9 @@ Players progress through five vault stages while managing limited lives, earning
 How to Play:
 
 Enter a Vault Explorer name.
+
 Select Start Game from the main menu.
+
 Complete the challenges in order.
 Answer questions correctly to earn points.
 Preserve your lives by avoiding incorrect answers.
