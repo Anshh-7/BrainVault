@@ -60,7 +60,5 @@ Input validation
 Loops and conditional statements
 String comparison
 Sorting using qsort()
-
 Platform-specific compilation
-
 Console-based user interface
